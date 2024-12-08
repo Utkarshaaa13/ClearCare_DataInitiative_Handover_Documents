@@ -2,8 +2,7 @@ Project Overview
 The ClearCare Data Initiative aims to provide a user-friendly price transparency tool to compare healthcare costs across hospitals and insurance providers. The initiative focuses on enhancing consumer empowerment by simplifying complex pricing data and offering cost comparisons in an accessible format. As part of the database team, our responsibility is to manage the project's data effectively to ensure its accuracy, integrity, and usability. 
 
 Copy of files: 
-https://cometmail-my.sharepoint.com/:f:/g/personal/sxc220023_utdallas_edu/En-OBuK1mWBNmWF7_DKGM8ABa6Zf3nGo0044kuYer6JLCA?e=HQcUw7
-Due to huge file sizes, we aren't able to push even the zip to 
+Due to huge file sizes, Please find the attached link for Excel Files 3: https://cometmail-my.sharepoint.com/:f:/g/personal/sxc220023_utdallas_edu/EpBKqAzNM1xJtB5J5bnQOS0BZIGNsbXi00KZ9Z52GDd5pg?e=hgxMAB
 Project Files :
 The project consists of the following files and documents:
 
