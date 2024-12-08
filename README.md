@@ -36,7 +36,7 @@ The procedure tables are essential for mapping the healthcare services to the co
 A Jupyter notebook containing Python code scripts used for data cleaning, transformation, and loading into the PostgreSQL database.
 The scripts handle the normalization of the datasets and automate the process of preparing data for analysis and visualization.
 
-Getting Started
+Getting Started :
 Prerequisites
 Python (for data cleaning and processing)
 PostgreSQL (for database management)
@@ -44,17 +44,17 @@ Jupyter/Google Colab (for running Python code scripts)
 PowerPoint (for viewing the final presentation)
 
 
-Installation and Setup
+Installation and Setup :
 Clone or download the repository containing the project files.
 Set up PostgreSQL and restore the database from the backup (Final_ClearCare_Initiative_Backup.backup) if needed.
 Run the Python scripts (Python_code_scripts.ipynb) in Jupyter or Google Colab to process the data and load it into the PostgreSQL database.
 Review the project design document to understand the database schema and data flow.
 View the presentation (Final Presentation_CLEARCARE DATA.pptx) to get an overview of the project's progress and findings.
 
-Key Features
+Key Features :
 Data Collection & Analysis: The project collects data from multiple hospitals and insurance providers, focusing on healthcare cost transparency and insurance rate comparison.
 Insurance Cost Comparison: Users can compare gross and negotiated charges from different insurance providers to make informed decisions.
 Data Automation: Python scripts automate the data cleaning, transformation, and database loading, ensuring efficiency and scalability.
 
-License
+License :
 This project is part of the ClearCare Data Initiative and is intended for academic and learning purposes only.
