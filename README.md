@@ -3,6 +3,7 @@ The ClearCare Data Initiative aims to provide a user-friendly price transparency
 
 Copy of files: 
 Due to huge file sizes, Please find the attached link for Excel Files 3: https://cometmail-my.sharepoint.com/:f:/g/personal/sxc220023_utdallas_edu/EpBKqAzNM1xJtB5J5bnQOS0BZIGNsbXi00KZ9Z52GDd5pg?e=hgxMAB
+
 Project Files :
 The project consists of the following files and documents:
 
