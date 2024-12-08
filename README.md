@@ -40,35 +40,35 @@ o	codes comparison.xlsx
 9. Columns to rows .ipynb
 •	Purpose: This notebook processes a dataset by working with a list of allowed column names and likely reshapes the data, converting columns to rows or filtering the data based on certain criteria.
 •	Excel File Used:
-o	Jacksonville cleaned dataset.xlsx
-o	Jacksonville cleaned dataset column to row.xlsx
-o	Jacksonville cleaned dataset row format.xlsx
-o	Jacksonville_transformed.xlsx
-o	Jacksonville cleaned dataset - Utkarsha.xlsx
-o	Springfield_final.xlsx
+Jacksonville cleaned dataset.xlsx,
+Jacksonville cleaned dataset column to row.xlsx,
+Jacksonville cleaned dataset row format.xlsx,
+Jacksonville_transformed.xlsx,
+Jacksonville cleaned dataset - Utkarsha.xlsx,
+Springfield_final.xlsx
 
 10. Descriptions.ipynb
 •	Purpose: This notebook deals with loading an Excel file ("codes_with_descriptions.xlsx") and performing operations on two specific sheets ("Sheet1" and "Sheet2").
 •	Excel File Used:
-o	codes_with_descriptions.xlsx
-o	highlighted_codes_not_found_sheet2.xlsx
-o	codes comparison for description.xlsx
+codes_with_descriptions.xlsx,
+highlighted_codes_not_found_sheet2.xlsx,
+codes comparison for description.xlsx
 
 11. Filtered Dataset.ipynb
 •	Purpose: This notebook loads two Excel files and processes the "Jacksonville" column from one of them.
 •	Excel Files Used:
-o	non cpt codes.xlsx
-o	Jacksonville_Memorial_Hospital.xlsx
+non cpt codes.xlsx,
+Jacksonville_Memorial_Hospital.xlsx
 
 12. Missing values cleaning.ipynb
 •	Purpose: This notebook loads the "Jacksonville cleaned dataset.xlsx" Excel file, which likely contains data with missing values.
 •	Excel File Used:
-o	Jacksonville cleaned dataset.xlsx
+Jacksonville cleaned dataset.xlsx
 
 14. Negotiated charges.ipynb
 •	Purpose: This notebook processes an Excel file, "Jacksonville_Negotiation_Charges.xlsx," and fills in missing payer IDs using a defined mapping based on payer names.
 •	Excel File Used:
-o	Jacksonville_Negotiation_Charges.xlsx
+Jacksonville_Negotiation_Charges.xlsx
 
 
 Getting Started :
